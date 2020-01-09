@@ -1,0 +1,101 @@
+{
+	"2": {
+		"owner": 2,
+		"name": "BAHAHЫ",
+		"id": 2,
+		"rating": 0,
+		"money": 14020850000000000,
+		"player": 2,
+		"moneytime": {
+			"1": {
+				"money": 70000000000000000
+			}
+		},
+		"players": {
+			"2": {
+				"id": 145420580,
+				"rank": 3,
+				"money": 0,
+				"timemoney": {}
+			},
+			"3": {
+				"id": 268127690,
+				"rank": 2,
+				"money": 0,
+				"timemoney": {}
+			}
+		},
+		"add": {},
+		"win": 0,
+		"louse": 0,
+		"attackyou": 0,
+		"guard": 0,
+		"shielddate": "",
+		"knight": 2000012,
+		"attacktimer": 0,
+		"attackdate": "",
+		"bowman": 2000002,
+		"creeper": 400000,
+		"delete": 1
+	},
+	"3": {
+		"owner": 17,
+		"name": "Котики",
+		"id": 3,
+		"rating": 0,
+		"money": 0,
+		"player": 1,
+		"moneytime": {},
+		"players": {
+			"17": {
+				"id": 565005759,
+				"rank": 3,
+				"money": 0,
+				"timemoney": {}
+			}
+		},
+		"add": {},
+		"win": 0,
+		"louse": 0,
+		"attackyou": 0,
+		"guard": 0,
+		"shielddate": "",
+		"knight": 0,
+		"attacktimer": 0,
+		"attackdate": "",
+		"bowman": 0,
+		"creeper": 0
+	},
+	"4": {
+		"owner": 1,
+		"name": "♫..ιllιlιιl......lιllιlι..♫",
+		"id": 4,
+		"rating": 0,
+		"money": 89999900000000000,
+		"player": 1,
+		"moneytime": {
+			"1": {
+				"money": 210000000000000000
+			}
+		},
+		"players": {
+			"1": {
+				"id": 470317246,
+				"rank": 3,
+				"money": 0,
+				"timemoney": {}
+			}
+		},
+		"add": {},
+		"win": 0,
+		"louse": 0,
+		"attackyou": 0,
+		"guard": 0,
+		"shielddate": "10.00.2020 01:34",
+		"knight": 3000000,
+		"attacktimer": 0,
+		"attackdate": "",
+		"bowman": 3000000,
+		"creeper": 3000000
+	}
+}

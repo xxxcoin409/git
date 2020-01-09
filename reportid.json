@@ -1,0 +1,17 @@
+{
+	"reports": {
+		"1": {
+			"id": 1,
+			"sender": 1
+		},
+		"2": {
+			"id": 2,
+			"sender": 1
+		},
+		"3": {
+			"id": 3,
+			"sender": 15
+		}
+	},
+	"lastreport": 3
+}
